@@ -77,4 +77,6 @@ Enter Product Quantity: 10
 Hands-on Python learner, exploring practical projects to strengthen programming skills.
 vedio demo--
 vedio explain
+https://drive.google.com/file/d/1adG8OeJh0weJB-xqHhx26sYRCeWY4Faq/view?usp=drive_link
+
 
